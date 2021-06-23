@@ -1,0 +1,3 @@
+Rax,/rax/longitude-deg,Longitude of the aircraft
+Dev,/dev/latitude-deg,Latitude of the aircraft
+Team,/team/altitude-deg,Altitude of the aircraft

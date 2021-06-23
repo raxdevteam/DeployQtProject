@@ -1,0 +1,8 @@
+10
+,
+C:/Users/Rajeev/Documents/QtProjects/build-PropertyEditor-Desktop_Qt_5_14_0_MinGW_64_bit-Debug
+Longitude,/position/longitude-deg
+Latitude,/position/latitude-deg
+Roll,/orientation/roll-deg
+Dev,/dev/latitude-deg
+Altitude,/position/altitude-deg

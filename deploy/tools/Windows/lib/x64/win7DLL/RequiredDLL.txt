@@ -1,0 +1,4 @@
+d3dcompiler.dll
+libEGL.dll
+libGLESv2.dll
+opengl32sw.dll

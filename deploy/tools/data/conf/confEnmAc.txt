@@ -1,0 +1,3 @@
+45
+tab
+C:/Users/Rajeev/Documents/QtProjects/build-PropertyEditor-Desktop_Qt_5_14_0_MinGW_64_bit-Debug

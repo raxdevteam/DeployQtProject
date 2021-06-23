@@ -1,0 +1,4 @@
+Longitude,/position/longitude-deg,Longitude of the aircraft
+Latitude,/position/latitude-deg,Latitude of the aircraft
+Altitude,/position/altitude-deg,Altitude of the aircraft
+Roll,/orientation/roll-deg,Rolling value of the aircraft

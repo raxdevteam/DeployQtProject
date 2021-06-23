@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+ <logging>
+  <log>
+   <filename>path/to/log/emitter_log.txt</filename>
+   <enabled>true</enabled>
+   <interval-ms>10</interval-ms>
+   <delimiter>,</delimiter>
+	<entry>
+    		<enabled>true</enabled>
+    		<title>Time[GMT]</title>
+    		<property>/sim/time/gmt-string</property>
+	</entry>   	
+	<entry>
+    		<enabled>true</enabled>
+    		<title>Latitude[Deg]</title>
+    		<property>/position/latitude-deg</property>
+	</entry>
+	<entry>
+    		<enabled>true</enabled>
+    		<title>Longitude[Deg]</title>
+    		<property>/position/longitude-deg</property>
+	</entry>	
+	<entry>
+    		<enabled>true</enabled>
+    		<title>Altitude[m]</title>
+    		<property>/position/altitude-ft</property>
+	</entry>
+	<entry>
+    		<enabled>true</enabled>
+    		<title>GroundSpeed[kt]</title>
+    		<property>/velocities/groundspeed-kt</property>
+	</entry>
+	<entry>
+    		<enabled>true</enabled>
+    		<title>Heading[Deg]</title>
+    		<property>/orientation/heading-deg</property>
+	</entry>
+  </log>
+ </logging>
+</PropertyList>

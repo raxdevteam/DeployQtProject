@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+       <generic>
+          <input>
+             <line_separator>newline</line_separator>
+             <var_separator>tab</var_separator>
+		
+	     <chunk>
+    		<node>/autopilot/route-manager/active</node>
+    		<type>bool</type>
+    	     </chunk>
+
+	     <chunk>
+    		<node>/autopilot/route-manager/input</node>
+    		<type>string</type>
+    	     </chunk>
+
+          </input>
+       </generic>
+</PropertyList>

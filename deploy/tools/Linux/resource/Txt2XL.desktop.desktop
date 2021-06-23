@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Txt2XL
+Comment=Text to Excel converter
+Exec=Txt2XL
+Icon=icon
+Categories=Office;
